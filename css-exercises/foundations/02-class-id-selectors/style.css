@@ -1,0 +1,38 @@
+#impar {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sas", sans-serif,;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+.thir {
+    font-size: 24px;
+   
+}
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+#impar {
+    background-color: hsl(0, 47%, 70%); 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.thir {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
