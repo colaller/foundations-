@@ -1,15 +1,42 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+ text-align: center;
 }
 
 img {
   width: 100px;
   height: 100px;
+  
+
 }
+
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 25px;
+}
+.container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+ gap: 52px;
+
+}
+
+
+.tarjeta {
+  max-width: 200px;
+  min-width: 0;
+}
+
+.tarjeta, img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ 
 }
 
 /* do not edit this footer */
